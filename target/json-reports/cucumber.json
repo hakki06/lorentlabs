@@ -1,0 +1,402 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Kullanici lorentlabsda gider",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 18940000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "kullanici lorentlabsda gider",
+            "match": {
+              "location": "stepdefinitions.LorentlabsSearchStepdefinitions.kullanici_lorentlabsda_gider()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-09-22T12:05:15.918Z",
+        "line": 23,
+        "name": "kullanıcı incele menusune gider",
+        "description": "",
+        "id": "lorentlabs-search;kullanıcı-incele-menusune-gider",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2412000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "kullanici incele tum menuyu tiklar",
+            "match": {
+              "location": "stepdefinitions.LorentlabsInceleDfn.kullanici_incele_tum_menuyu_tiklar()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 21036000000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "kullanici incele icerigini yukler",
+            "match": {
+              "location": "stepdefinitions.LorentlabsInceleDfn.kullanici_incele_icerigini_yukler()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9315000000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "kullanici incele sayfa basliklarini excele yazdirir",
+            "match": {
+              "location": "stepdefinitions.LorentlabsInceleDfn.kullanici_incele_sayfa_basliklarini_excele_yazdirir()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@lorent"
+          },
+          {
+            "name": "@inceletummenu"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Kullanici lorentlabsda gider",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2689000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "kullanici lorentlabsda gider",
+            "match": {
+              "location": "stepdefinitions.LorentlabsSearchStepdefinitions.kullanici_lorentlabsda_gider()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-09-22T12:06:07.911Z",
+        "line": 29,
+        "name": "kullanici haberler menusune gider",
+        "description": "",
+        "id": "lorentlabs-search;kullanici-haberler-menusune-gider",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1646000000,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "kullanici haberler menusunu tiklar",
+            "match": {
+              "location": "stepdefinitions.LorentlabsHaberlerDfn.kullanici_haberler_menusunu_tiklar()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 22355000000,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "kullanici tüm menuyu yukler",
+            "match": {
+              "location": "stepdefinitions.LorentlabsHaberlerDfn.kullanici_tüm_menuyu_yukler()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8581000000,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "kullanıcı haberler basliklarini excele yazdırır",
+            "match": {
+              "location": "stepdefinitions.LorentlabsHaberlerDfn.kullanıcı_haberler_basliklarini_excele_yazdırır()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@lorent"
+          },
+          {
+            "name": "@haberlertummenu"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Kullanici lorentlabsda gider",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3160000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "kullanici lorentlabsda gider",
+            "match": {
+              "location": "stepdefinitions.LorentlabsSearchStepdefinitions.kullanici_lorentlabsda_gider()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-09-22T12:06:43.188Z",
+        "line": 35,
+        "name": "kullanici karsilastir menusune gider",
+        "description": "",
+        "id": "lorentlabs-search;kullanici-karsilastir-menusune-gider",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1978000000,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "kullanici karsilastir menusunu tiklar",
+            "match": {
+              "location": "stepdefinitions.LorentlabsKarsilastirDfn.kullanici_karsilastir_menusunu_tiklar()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 15644000000,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "kullanici tüm karsilastir menusunu yukler",
+            "match": {
+              "location": "stepdefinitions.LorentlabsKarsilastirDfn.kullanici_tüm_karsilastir_menusunu_yukler()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2315000000,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "kullanıcı karsilastir basliklarini excele yazdırır",
+            "match": {
+              "location": "stepdefinitions.LorentlabsKarsilastirDfn.kullanıcı_karsilastir_basliklarini_excele_yazdırır()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@lorent"
+          },
+          {
+            "name": "@karsilastirtummenu"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Kullanici lorentlabsda gider",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2659000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "kullanici lorentlabsda gider",
+            "match": {
+              "location": "stepdefinitions.LorentlabsSearchStepdefinitions.kullanici_lorentlabsda_gider()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-09-22T12:07:06.292Z",
+        "line": 41,
+        "name": "kullanici kriptopara menusune gider",
+        "description": "",
+        "id": "lorentlabs-search;kullanici-kriptopara-menusune-gider",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2035000000,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "kullanici kriptopara menusunu tiklar",
+            "match": {
+              "location": "stepdefinitions.LorentlabsKriptoParaDfn.kullanici_kriptopara_menusunu_tiklar()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10663000000,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "kullanici tüm kriptopara menusunu yukler",
+            "match": {
+              "location": "stepdefinitions.LorentlabsKriptoParaDfn.kullanici_tüm_kriptopara_menusunu_yukler()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2611000000,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "kullanıcı kriptopara basliklarini excele yazdırır",
+            "match": {
+              "location": "stepdefinitions.LorentlabsKriptoParaDfn.kullanıcı_kriptopara_basliklarini_excele_yazdırır()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@lorent"
+          },
+          {
+            "name": "@kriptoparatummenu"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Kullanici lorentlabsda gider",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3307000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "kullanici lorentlabsda gider",
+            "match": {
+              "location": "stepdefinitions.LorentlabsSearchStepdefinitions.kullanici_lorentlabsda_gider()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-09-22T12:07:24.267Z",
+        "line": 47,
+        "name": "kullanici siberGuvenlik menusune gider",
+        "description": "",
+        "id": "lorentlabs-search;kullanici-siberguvenlik-menusune-gider",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1647000000,
+              "status": "passed"
+            },
+            "line": 48,
+            "name": "kullanici siberGuvenlik menusunu tiklar",
+            "match": {
+              "location": "stepdefinitions.LorentlabsSiberGuvenlikDfn.kullanici_siberGuvenlik_menusunu_tiklar()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 21353000000,
+              "status": "passed"
+            },
+            "line": 49,
+            "name": "kullanici tüm siberGuvenlik menusunu yukler",
+            "match": {
+              "location": "stepdefinitions.LorentlabsSiberGuvenlikDfn.kullanici_tüm_siberGuvenlik_menusunu_yukler()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5824000000,
+              "status": "passed"
+            },
+            "line": 50,
+            "name": "kullanıcı siberGuvenlik basliklarini excele yazdırır",
+            "match": {
+              "location": "stepdefinitions.LorentlabsSiberGuvenlikDfn.kullanıcı_siberGuvenlik_basliklarini_excele_yazdırır()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@lorent"
+          },
+          {
+            "name": "@siberGuvenliktummenu"
+          }
+        ]
+      }
+    ],
+    "name": "Lorentlabs search",
+    "description": "",
+    "id": "lorentlabs-search",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/firstfeaturefile.feature",
+    "tags": [
+      {
+        "name": "@lorent",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
