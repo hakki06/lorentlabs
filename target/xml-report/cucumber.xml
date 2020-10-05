@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="161.173">
-<testcase classname="Lorentlabs search" name="kullanıcı incele menusune gider" time="51.976">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="185.06">
+<testcase classname="Lorentlabs search" name="kullanıcı incele menusune gider" time="70.011">
 <system-out><![CDATA[Given kullanici lorentlabsda gider..........................................passed
 And kullanici incele tum menuyu tiklar......................................passed
 And kullanici incele icerigini yukler.......................................passed
 Then kullanici incele sayfa basliklarini excele yazdirir....................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Lorentlabs search" name="kullanici haberler menusune gider" time="35.273">
+<testcase classname="Lorentlabs search" name="kullanici haberler menusune gider" time="42.336">
 <system-out><![CDATA[Given kullanici lorentlabsda gider..........................................passed
 And kullanici haberler menusunu tiklar......................................passed
 And kullanici tüm menuyu yukler.............................................passed
 Then kullanıcı haberler basliklarini excele yazdırır........................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Lorentlabs search" name="kullanici karsilastir menusune gider" time="23.099">
+<testcase classname="Lorentlabs search" name="kullanici karsilastir menusune gider" time="18.217">
 <system-out><![CDATA[Given kullanici lorentlabsda gider..........................................passed
 And kullanici karsilastir menusunu tiklar...................................passed
 And kullanici tüm karsilastir menusunu yukler...............................passed
 Then kullanıcı karsilastir basliklarini excele yazdırır.....................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Lorentlabs search" name="kullanici kriptopara menusune gider" time="17.97">
+<testcase classname="Lorentlabs search" name="kullanici kriptopara menusune gider" time="18.426">
 <system-out><![CDATA[Given kullanici lorentlabsda gider..........................................passed
 And kullanici kriptopara menusunu tiklar....................................passed
 And kullanici tüm kriptopara menusunu yukler................................passed
 Then kullanıcı kriptopara basliklarini excele yazdırır......................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Lorentlabs search" name="kullanici siberGuvenlik menusune gider" time="32.133">
+<testcase classname="Lorentlabs search" name="kullanici siberGuvenlik menusune gider" time="34.741">
 <system-out><![CDATA[Given kullanici lorentlabsda gider..........................................passed
 And kullanici siberGuvenlik menusunu tiklar.................................passed
 And kullanici tüm siberGuvenlik menusunu yukler.............................passed
